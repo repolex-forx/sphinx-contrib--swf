@@ -1,0 +1,11 @@
+{
+  "org": "sphinx-contrib",
+  "repo": "swf",
+  "versions": [
+    {
+      "commit": "f4a83901a6dab5ca2d5828038d7886ac4e153615",
+      "tag": "",
+      "parsed_at": "2026-11-07T00:49:51.766956+00:00"
+    }
+  ]
+}

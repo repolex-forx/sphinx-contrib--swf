@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/sphinx-contrib/swf/commit/f4a83901a6dab5ca2d5828038d7886ac4e153615",
       "git:hexsha": "f4a83901a6dab5ca2d5828038d7886ac4e153615",
-      "repolex:parseStatus": "metadata_complete"
+      "repolex:parseStatus": "ast_complete"
     }
   ]
 }
